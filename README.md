@@ -40,3 +40,7 @@ A aplicação utiliza `fetch` para realizar uma requisição assíncrona, recebe
 
 Também é possível abrir o projeto usando a extensão Live Server do VS Code.
 
+## Links
+
+- **Aplicação no ar (GitHub Pages):** https://annahelena222.github.io/pokefinder/
+- **Repositório público:** https://github.com/Annahelena222/pokefinder
