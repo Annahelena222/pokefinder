@@ -40,7 +40,3 @@ A aplicação utiliza `fetch` para realizar uma requisição assíncrona, recebe
 
 Também é possível abrir o projeto usando a extensão Live Server do VS Code.
 
-## Links
-
-- **Aplicação no ar (GitHub Pages):** COLOQUE_AQUI_O_LINK_DA_APLICACAO
-- **Repositório público:** COLOQUE_AQUI_O_LINK_DO_REPOSITORIO
