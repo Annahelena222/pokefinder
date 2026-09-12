@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="PokéFinder - aplicação web para consultar informações de Pokémon.">
+    <title>PokéFinder | Consulta de Pokémon</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header class="topo">
+        <div class="logo">Poké<span>Finder</span></div>
+        <div class="subtitulo">Sua busca pelo mundo Pokémon</div>
+    </header>
+
+    <main class="container">
+        <section class="introducao">
+            <p class="tag">POKÉDEX DIGITAL</p>
+            <h1>Encontre seu Pokémon</h1>
+            <p>Pesquise pelo nome ou número e descubra informações sobre o Pokémon escolhido.</p>
+        </section>
+
+        <section class="busca">
+            <label for="campo-busca">Nome ou número do Pokémon</label>
+            <div class="linha-busca">
+                <input
+                    type="text"
+                    id="campo-busca"
+                    placeholder="Ex.: pikachu ou 25"
+                    autocomplete="off"
+                >
+                <button id="botao-buscar" type="button">Buscar</button>
+            </div>
+            <p class="dica">Exemplos: pikachu, charizard, eevee ou 150.</p>
+        </section>
+
+        <section id="resultado" class="resultado" aria-live="polite">
+            <div class="mensagem-inicial">
+                <div class="icone-pokebola">◓</div>
+                <h2>Comece sua busca</h2>
+                <p>Digite um Pokémon acima para consultar a PokéAPI.</p>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <p>Projeto acadêmico — Bootcamp II | Frontend + API pública</p>
+        <p>Dados consultados na PokéAPI</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
