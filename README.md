@@ -44,3 +44,8 @@ Também é possível abrir o projeto usando a extensão Live Server do VS Code.
 
 - **Aplicação no ar (GitHub Pages):** https://annahelena222.github.io/pokefinder/
 - **Repositório público:** https://github.com/Annahelena222/pokefinder
+
+## Como executar a aplicação via Docker
+Qualquer pessoa em qualquer servidor pode rodar a aplicação com uma única linha de comando[span_1](start_span)[span_1](end_span):
+```bash
+docker run -d -p 8080:80 anna182819/bootcamp2-app:latest
