@@ -1,8 +1,11 @@
 # PokéFinder
 
-## Autor
+## 👥 Tabela de Integrantes
 
-Anna Helena Soares Rocha – Matrícula 22606470
+| Integrante | Matrícula | Usuário GitHub | Funcionalidade Responsável | Link da Principal PR |
+| :--- | :--- | :--- | :--- | :--- |
+| **Anna Helena** | 22606470 | `@Annahelena222` | Frontend / Persistência no Supabase | [Ver PR #1](https://github.com/Annahelena222/pokefinder/pulls) |
+| **[Nome do Colega 2]** | [Matrícula] | `@[usuario_github]` | [Ex: Docker Hub / Configuração CI] | [Ver PR #2](https://github.com/Annahelena222/pokefinder/pulls) |
 
 ## Descrição
 
@@ -49,10 +52,3 @@ Também é possível abrir o projeto usando a extensão Live Server do VS Code.
 Qualquer pessoa em qualquer servidor pode rodar a aplicação com uma única linha de comando[span_1](start_span)[span_1](end_span):
 ```bash
 docker run -d -p 8080:80 anna182819/bootcamp2-app:latest
-
-## 👥 Tabela de Integrantes
-
-| Integrante | Matrícula | Usuário GitHub | Funcionalidade Responsável | Link da Principal PR |
-| :--- | :--- | :--- | :--- | :--- |
-| **Anna Helena** | 22606470 | `@Annahelena222` | Frontend / Persistência no Supabase | [Ver PR #1](https://github.com/Annahelena222/pokefinder/pulls) |
-| **[Nome do Colega 2]** | [Matrícula] | `@[usuario_github]` | [Ex: Docker Hub / Configuração CI] | [Ver PR #2](https://github.com/Annahelena222/pokefinder/pulls) |
