@@ -1,11 +1,11 @@
 # PokéFinder
 
-## 👥 Tabela de Integrantes
+###  Tabela de Integrantes
 
 | Integrante | Matrícula | Usuário GitHub | Funcionalidade Responsável | Link da Principal PR |
 | :--- | :--- | :--- | :--- | :--- |
-| **Anna Helena** | 22606470 | `@Annahelena222` | Frontend / Persistência no Supabase | [Ver PR #1](https://github.com/Annahelena222/pokefinder/pulls) |
-| **[Nome do Colega 2]** | [Matrícula] | `@[usuario_github]` | [Ex: Docker Hub / Configuração CI] | [Ver PR #2](https://github.com/Annahelena222/pokefinder/pulls) |
+| **Anna Helena Soares Rocha** | 22606470 | `@Annahelena222` | Frontend / Persistência Supabase / Docker | [Ver PR #1](https://github.com/Annahelena222/pokefinder/pulls) |
+| **[Nome da Colega]** | [Matrícula] | `@[usuario_github]` | [Ex: Testes automatizados / GitHub Actions] | [Ver PR #2](https://github.com/Annahelena222/pokefinder/pulls) |
 
 ## Descrição
 
